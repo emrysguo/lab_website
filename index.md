@@ -1,9 +1,9 @@
 ---
 ---
 
-# emrysguo's Website
+# Vwani Roychowdhury's Group
 
-An engaging 1-3 sentence description of your lab.
+This is a website for Vwani Roychowdhury's Group.
 
 {% include section.html %}
 
