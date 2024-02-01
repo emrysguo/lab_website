@@ -2,9 +2,6 @@
 name: Vwani Roychowdhury
 image: images/vwaniroychowdhury.png
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
 links:
   home-page: https://www.vwaniroychowdhury.com/
   orcid: 0000-0003-0832-6489
