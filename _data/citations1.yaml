@@ -1,0 +1,22 @@
+- id: doi:10.1093/braincomms/fcab267
+  title: "Refining epileptogenic high-frequency oscillations using deep learning: a reverse engineering approach"
+  authors:
+  - Yipeng Zhang, Qiujing Lu, Tonmoy Monsoor, Shaun A. Hussain, Joe X. Qiao, Noriko Salamon, Aria Fallah, Myung Shin Sim, Eishi Asano, Raman Sankar, Richard J. Staba, Jerome Engel, Jr, William Speier, Vwani Roychowdhury, Hiroki Nariai
+  publisher: Brain Communications
+  date: '2021 November 03'
+  link: https://academic.oup.com/braincomms/article/4/1/fcab267/6420212
+- id: doi:10.1088/1741-2552/aca4fa
+  title: Characterizing physiological high-frequency oscillations using deep learning
+  authors:
+  - Yipeng Zhang
+Yipeng Zhang, Hoyoung Chung, Jacquline P Ngo, Tonmoy Monsoor, Shaun A Hussain, Joyce H Matsumoto, Patricia D Walshaw, Aria Fallah, Myung Shin Sim, Eishi Asano
+  publisher: Journal of neural engineering, 2022
+  date: '2022 December 7'
+  link: https://pubmed.ncbi.nlm.nih.gov/36541546/
+- id: doi:10.1101/2023.04.13.23288435
+  title: 'Optimizing detection and deep learning-based classification of pathological high-frequency oscillations in epilepsy'
+  authors:
+  - Tonmoy Monsoor, Yipeng Zhang, Atsuro Daida, Shingo Oana, Qiujing Lu, Shaun A Hussain, Aria Fallah, Raman Sankar, Richard J Staba, William Speier, Vwani Roychowdhury, Hiroki Nariai
+  publisher: medRxiv, 2023
+  date: '2023 Apr 17'
+  link: https://pubmed.ncbi.nlm.nih.gov/37131743/
