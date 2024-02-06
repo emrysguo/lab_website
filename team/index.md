@@ -7,6 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+Meet the brilliant minds driving innovation and discovery at here. Our diverse and dedicated team of researchers brings together a wealth of expertise. Led by Principal Investigator Professor Vwani Roychowdhury and Professor Hiroki Nariai, our collaborative efforts fuel the success of projects such as classification in intercrinal EEG recording and PyHFO. Each team member contributes a unique perspective, fostering a dynamic and inclusive research environment. Explore the profiles of our researchers to learn more about their backgrounds, interests, and contributions to the scientific community. Together, we share a common passion for advancing knowledge and making a meaningful impact.
 
 {% include section.html %}
 

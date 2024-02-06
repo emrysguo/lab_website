@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Thank you for your interest! Whether you have questions about our ongoing research, collaboration opportunities, or you simply want to get in touch, we would love to hear from you. Please feel free to reach out to us using the contact information below.
 
 {%
   include button.html
